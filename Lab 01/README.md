@@ -1,5 +1,6 @@
-# **`Bài tập Lý thuyết LAB 01`**
-Câu 1 và 2 dựa và Đồ thị mẫu 2 và Đồ thị mẫu 5
+# **Bài tập Lý thuyết LAB 01**
+**Câu 1 và 2 dựa và Đồ thị mẫu 2 và Đồ thị mẫu 5**
+
 Câu 1:
 -  BFS duyệt theo từng lớp, nên sẽ tìm được đường đi có ít cạnh nhất trên đồ thị không trọng số.
 Trên đồ thị có trọng số, BFS không xét đến chi phí, nên có thể chọn đường đi có nhiều trọng số hơn.
@@ -14,7 +15,8 @@ Ví dụ từ Đồ thị mẫu 2:
 Nếu không đánh dấu, DFS có thể lặp: A -> B -> D -> C -> A -> ...
 => Gây vòng lặp vô hạn nếu không kiểm soát.
 
-Câu 1 và 2 dựa vào Đồ thị mẫu 6 và 7
+**Câu 1 và 2 dựa vào Đồ thị mẫu 6 và 7**
+
 Câu 1:
 -  BFS duyệt theo số lượng bước đi, không xét trọng số của cạnh → không đảm bảo tổng trọng số nhỏ nhất.
 -  DFS duyệt theo chiều sâu tuỳ ý → cũng không xét trọng số.

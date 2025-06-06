@@ -1,4 +1,4 @@
-**`PHÂN TÍCH BFS VÀ DFS`**
+# **`PHÂN TÍCH BFS VÀ DFS`**
 Câu 1 và 2 dựa và Đồ thị mẫu 2 và Đồ thị mẫu 5
 Câu 1:
 -  BFS duyệt theo từng lớp, nên sẽ tìm được đường đi có ít cạnh nhất trên đồ thị không trọng số.

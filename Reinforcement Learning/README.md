@@ -1,4 +1,4 @@
-Reinforcement Learning
+# **Reinforcement Learning**
 
 Đây là một notebook Jupyter giới thiệu và triển khai cơ bản về Học tăng cường (Reinforcement Learning - RL) bằng Python. Nội dung tập trung vào giải thích lý thuyết và thử nghiệm với thuật toán Q-Learning trong môi trường đơn giản.
 
